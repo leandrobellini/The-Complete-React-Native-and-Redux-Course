@@ -18,4 +18,4 @@ https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overvi
 -Understand the terminology and concepts of Redux
 -Prototype and deploy your own applications to the Apple and Google Play Stores
 -Get up to speed with React design principles and methodologies
--Discover mobile design patterns used by experienced engineers 
+-Discover mobile design patterns used by experienced engineers  
